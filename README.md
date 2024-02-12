@@ -8,13 +8,13 @@ This Flutter project consists of three screens:
 
 ## Screenshots
 
-![Login Screen](https://drive.google.com/file/d/1ETQidYqjAsmaxDRPWQaoykujDnPU3JUH/view?usp=drive_link)
-![Home Screen](https://drive.google.com/file/d/1EXuGigkGROss2qhYXRPKDoVXbWZ0AkKp/view?usp=drive_link)
-![Description Screen](https://drive.google.com/file/d/1Eh-SgdaHREGQpgLm4wVMlwxN_-0r8mzx/view?usp=drive_link)
-![Share Feature](https://drive.google.com/file/d/1EirHyyYrlacHVby10Aj6O8VDGYySIhFj/view?usp=drive_link)
+![Login Screen](/assets/output%20images/login_screen.jpg)
+![Home Screen](/assets/output%20images/individual_meetup_screen.jpg)
+![Description Screen](/assets/output%20images/meetup_detail_description_screen.jpg)
+![Share Feature](/assets/output%20images/share_feature.jpg)
 
 
-![Video Demo](https://drive.google.com/file/d/1EjsXly3h3tx03txBwlZUN8aPWjkawS1w/view?usp=drive_link)
+![Video Demo](/assets/output%20images/vedio_recording.mp4)
 
 ## APK Downloads
 
