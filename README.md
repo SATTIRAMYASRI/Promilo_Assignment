@@ -14,7 +14,7 @@ This Flutter project consists of three screens:
 ![Share Feature](/assets/output%20images/share_feature.jpg)
 
 
-![Video Demo](/assets/output%20images/vedio_recording.mp4)
+- [Video Demo](https://drive.google.com/file/d/1EjsXly3h3tx03txBwlZUN8aPWjkawS1w/view?usp=drive_link)
 
 ## APK Downloads
 
